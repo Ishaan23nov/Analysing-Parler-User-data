@@ -3,7 +3,7 @@
 On 6 January 2021, a mob of right-wing conservatives stormed the USA Capitol Hill interrupting the session of congress certifying 2020 Presidential election results. Immediately after the start of the event, posts related to the riots started to trend on social media. A social media platform which stood out was a free speech endorsing social media platform Parler; it is being claimed as the platform on which the riots were planned and talked about. 
 So what I tried to do is to analyse the user data like whose post got the maximum likes or whose post where shared maximum number of times. Were the maximum post were shared by humans or were they bots?. The collected data was based on the trending hashtags and draw comparisons based on what are the topics being talked about, who are the people active on the platforms and how organic is the content generated on the two platforms. Parler content had a strong conservative narrative echoing the ideas of voter fraud similar to the attacking mob.
 
-## Link for data: https://drive.google.com/drive/folders/1sBp6BWt1cmENWLyTQFdGVg0QX8ZnfE5x?usp=sharing
+#### Link for data: https://drive.google.com/drive/folders/1sBp6BWt1cmENWLyTQFdGVg0QX8ZnfE5x?usp=sharing
 
 ## The questions I tried to answer:
 
